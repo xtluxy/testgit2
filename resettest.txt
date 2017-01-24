@@ -1,3 +1,4 @@
 resettest init
 resettest second
 resettest third
+resettest forth

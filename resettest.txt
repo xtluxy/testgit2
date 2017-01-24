@@ -1,1 +1,2 @@
 resettest init
+resettest second
